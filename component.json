@@ -1,0 +1,13 @@
+{
+  "name": "aes",
+  "repository": "slang800/aes",
+  "description": "",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
